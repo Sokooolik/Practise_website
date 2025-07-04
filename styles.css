@@ -23,7 +23,7 @@ nav {
 
 a {
     text-decoration: none;
-    color: hsl(0, 100%, 94%)
+    color: hsl(0, 64%, 98%)
 }
 
 nav li{
@@ -37,7 +37,7 @@ nav li{
 
 h1, header h2 {
     margin-top: 2%;
-    color: hsl(0, 100%, 94%);
+    color: hsl(0, 73%, 97%);
     font-size: 2.5rem;
 }
 
@@ -55,7 +55,7 @@ section {
 section h2 {
     text-align: center;
     font-size: 2.5rem;
-    color: hsl(0, 100%, 94%);;
+    color:hsl(0, 73%, 97%);
     padding-bottom: 2%;
 }
 
@@ -65,7 +65,7 @@ section h2 {
     background-color: rgb(75, 74, 74);
     background-position: center;
     border: solid 0.2px white;
-    color: hsl(0, 4%, 82%)
+    color: hsl(0, 73%, 97%)
 }
 
 section div {
@@ -78,7 +78,7 @@ article {
 
 footer {
     background-color: black;
-    color: hsl(0, 4%, 82%);
+    color: hsl(0, 73%, 97%);
     text-align: center;
     height: 15vh;
 }
